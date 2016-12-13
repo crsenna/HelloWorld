@@ -1,0 +1,3 @@
+javac myPackages/myHWClass/*.java
+javac HelloWorld.java
+
