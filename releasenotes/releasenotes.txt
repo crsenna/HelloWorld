@@ -1,0 +1,12 @@
+Java Hello World Version 1.02 12.12.2016
+
+News:
+
+1. 12.12.2016 Carlos Senna
+
+This version of the program has three options to put a msg in the screen. 
+a. The message is put without modifications
+b. All characteres of the message are put in uppercase
+c. All characteres of the message are put in lowwercase
+
+
